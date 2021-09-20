@@ -1,5 +1,4 @@
-# A2-HTML-Responsive-Website
-
+# A3-COMSC230-Sailboat-Racing
 HTML Website project Based on the video tutorial by Brad Traversy:
 
 https://www.youtube.com/watch?v=Wm6CUkswsNw&feature=youtu.be
